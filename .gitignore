@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Projs/v17
+/.vs/Projs/FileContentIndex
+/.vs
+/MatchMaking.Worker/obj/Release/net9.0
+/MatchMaking.Worker/obj/Debug/net9.0
+/MatchMaking.Service/obj/Release/net9.0
+/MatchMaking.Service/obj/Debug/net9.0
