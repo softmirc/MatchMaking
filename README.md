@@ -39,3 +39,6 @@ Build and run the services:
 7. Expand /match/search api point, click button 'try it out', input user id for example 'user1' and click Execute button
 8. Repeat 6 step input userId values 'user2' and 'user3' for complete match
 9. For get match info by user id Expand /match/{userId}, input user1, click execute button to see response
+
+## Licence GPL
+This repository was made for a technical test only and cannot be reused or redistributed without the author's consent.
